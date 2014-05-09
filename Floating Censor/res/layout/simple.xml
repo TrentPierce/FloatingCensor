@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@android:color/black"
+        android:orientation="vertical"
+        android:padding="8dp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Floating Censor Bar"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Drag me over whatever you want to censor. Click the notification to open additional bars. You can resize me by pinching, or dragging my bottom right corner. "
+            android:textColor="#ffffff" />
+       
+    </LinearLayout>
+
+</merge>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Floating Censor</string>
+     <string name="app_license">"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyyozWWp5y0g6KpHjBxS7hFiMzPmnftCo9y8jc+dzFG6o8KnVkCVAed3P53sm3PGL+yr7Chy/xTbZJ2omPevLNFvTfsct+sp/7C6pZuPYcxux9hkYMeaSH9s0aBk02NhJWA1rnNZmnrtASCT2T2D2Sw/7Zf/kzLRUIll3mnc4XUp0yaJ+CYE5a3eVADI69VG0eFy/yam/azjA5qk2xLvxh/8UhjzGm92JIIacqbzbjNobhKZXfaONSuXyKokkA5fJWmesVchS/ZBP7BvF6JMDhCyW0S9PL0UH5JlYy6flou3BIQkwHfvnPaAZV1I22OgvT6aE7fzp0kvNQb3FcruiuwIDAQAB"</string>
+ <string name="donate_small">One Pack of Gum</string>
+    <string name="donate_medium">One Coffee</string>
+    <string name="donate_large">Fast food for Lunch</string>
+    <string name="donate_xl">Dinner for two</string>
+    <string name="donate_xxl">One hour off of work</string>
+    <string name="in_app_bill_error">Problem setting up in-app billing</string>
+	<string name="purchase_error">Error purchasing: </string>
+	<string name="error_verification">Error purchasing:Authenticity verification failed</string>
+	<string name="thank_you">Thank you for supporting the developer!</string>
+	<string name="error_consume">Error while consuming: </string>
+    <string name="donate_text">Floating Censor is a project developed in my spare time. I have a long list of awesome apps I would like to work on, so any sort of a contribution helps. If you are a developer, find me on XDA or Github. Thank you!</string>
+</resources>
